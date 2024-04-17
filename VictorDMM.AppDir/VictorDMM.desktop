@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Victor DMM
+Terminal=false
+StartupNotify=true
+Type=Application
+Icon=victor_dmm
+Exec=victor_dmm
+Comment=Victor 86C Digital Multimeter
+Categories=Utility;
+StartupWMClass=victor_dmm

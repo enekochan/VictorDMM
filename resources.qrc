@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/refresh.png</file>
+        <file>images/battery.png</file>
+        <file>images/beep.png</file>
+        <file>images/diode.png</file>
+        <file>fonts/Segment7.ttf</file>
+    </qresource>
+</RCC>
